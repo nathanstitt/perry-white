@@ -22,7 +22,7 @@ var isDev = env.NODE_ENV === 'development' || 0;
 var options = {
   mode: 'production',
   entry: {
-    licit: path.join(__dirname, 'licit', 'client', 'index.js'),
+    licit: path.join(__dirname, 'src', 'client', 'index.js'),
   },
   output: {
     path: path.join(__dirname, 'bin'),

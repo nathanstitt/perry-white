@@ -5,5 +5,4 @@ servers
 *.pyc
 *.code-workspace
 .vscode/
-dist
 *.tgz
