@@ -1,4 +1,4 @@
-
+## DEPRECATED - code has been moved to https://github.com/openstax/perry-white
 
 
 
